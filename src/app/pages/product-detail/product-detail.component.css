@@ -1,0 +1,10 @@
+.estilos-generales{
+    height: auto;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}

@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+    justify-items: center;
+}
+
+img{
+    width: 50%;
+    height: auto;
+    margin-top: 5em;
+    object-fit: cover;
+}
